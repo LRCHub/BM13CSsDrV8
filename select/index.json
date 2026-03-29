@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ココロ・アストロノーツ",
+  "base_artist": "ジャンピンロケット（cv.小林竜之、cv.大森綺星）",
+  "createdAt": "2026-03-29T04:09:07.919520Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ココロ・アストロノーツ",
+      "artist": "ジャンピンロケット(cv.小林竜之、cv.大森綺星)",
+      "has_synced": false,
+      "path": "select/pl_01_ココロ・アストロノーツ_ジャンピンロケット(cv.小林竜之、cv.大森綺星).txt"
+    }
+  ]
+}
